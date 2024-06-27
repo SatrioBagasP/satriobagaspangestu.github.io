@@ -104,23 +104,35 @@
       "title": "Website Sistem Pengisian KRS Online",
       "client": "-",
       "build" : "Laravel, Php, Tailwind",
-      "desc": "Disini saya ",
+      "desc": "Sistem Pengisian Kartu Rencana Studi (KRS) Online ini merupakan solusi modern untuk perguruan tinggi dalam mengelola proses pengisian KRS mahasiswa. Dikembangkan menggunakan Laravel dan Tailwind CSS, sistem ini menawarkan antarmuka yang intuitif dan responsif, memudahkan mahasiswa, dosen, dan admin dalam mengakses dan mengelola data KRS ",
       "link":"https://github.com/SatrioBagasPangestu/project-krs-online",
       "items": [
         {
-          "src": "img/mar1.jpeg"
+          "src": "img/krs1.png"
         },
         {
-          "src": "img/mar2.jpeg"
+          "src": "img/krs2.png"
         },
         {
-          "src": "img/mar3.jpeg"
+          "src": "img/krs3.png"
         },
         {
-          "src": "img/mar4.jpeg"
+          "src": "img/krs4.png"
         },
         {
-          "src": "img/mar5.jpeg"
+          "src": "img/krs5.png"
+        },
+        {
+          "src": "img/krs6.png"
+        },
+        {
+          "src": "img/krs7.png"
+        },
+        {
+          "src": "img/krs8.png"
+        },
+        {
+          "src": "img/krs9.png"
         }
       ]
     },
@@ -130,23 +142,29 @@
       "title": "Website Mental Health",
       "client": "-",
       "build" : "Php (MVC), Manual CSS",
-      "desc": "Disini saya ",
+      "desc": "Sistem ini dirancang untuk memudahkan proses penjadwalan konsultasi antara pasien dan psikolog. Dengan antarmuka yang intuitif dan fitur yang lengkap, pasien dapat dengan mudah mencari psikolog yang sesuai dengan kebutuhan mereka, memilih jadwal yang tersedia, dan melakukan pemesanan secara online. Psikolog dapat mengelola jadwal mereka dengan mudah, menerima atau menolak permintaan konsultasi dari pasien, dan berkomunikasi dengan pasien melalui whatsapp yang sudah tertera.",
       "link":"https://github.com/SatrioBagasPangestu/mental-health",
       "items": [
         {
-          "src": "img/mar1.jpeg"
+          "src": "img/mtl1.png"
         },
         {
-          "src": "img/mar2.jpeg"
+          "src": "img/mtl2.png"
         },
         {
-          "src": "img/mar3.jpeg"
+          "src": "img/mtl3.png"
         },
         {
-          "src": "img/mar4.jpeg"
+          "src": "img/mtl4.png"
         },
         {
-          "src": "img/mar5.jpeg"
+          "src": "img/mtl5.png"
+        },
+        {
+          "src": "img/mtl6.png"
+        },
+        {
+          "src": "img/mtl7.png"
         }
       ]
     },
@@ -156,23 +174,29 @@
       "title": "Website Sistem Kasir",
       "client": "-",
       "build" : "Php (MVC), Tailwind",
-      "desc": "Disini saya ",
+      "desc": "Sistem kasir ini dirancang untuk memudahkan pengelolaan transaksi penjualan di toko atau bisnis ritel. Dengan antarmuka yang intuitif dan fitur yang lengkap, kasir dapat dengan cepat memproses transaksi, mencetak struk, dan melacak penjualan secara real-time.",
       "link":"https://github.com/SatrioBagasPangestu/kasir",
       "items": [
         {
-          "src": "img/mar1.jpeg"
+          "src": "img/ksr1.png"
         },
         {
-          "src": "img/mar2.jpeg"
+          "src": "img/ksr2.png"
         },
         {
-          "src": "img/mar3.jpeg"
+          "src": "img/ksr3.png"
         },
         {
-          "src": "img/mar4.jpeg"
+          "src": "img/ksr4.png"
         },
         {
-          "src": "img/mar5.jpeg"
+          "src": "img/ksr5.png"
+        },
+        {
+          "src": "img/ksr6.png"
+        },
+        {
+          "src": "img/ksr7.png"
         }
       ]
     },

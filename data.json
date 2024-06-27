@@ -1,0 +1,277 @@
+{
+  "carousels": [
+    {
+      "id": 1,
+      "category" :"wordpress",
+      "title": "Website Jual Beli Property",
+      "client": "Anugrah Property",
+      "build" : "Wordpress",
+      "desc": "Pengembangan website profesional untuk Anugrah Properti, sebuah agensi real estat terkemuka. Situs ini dirancang untuk menampilkan properti secara menarik dan informatif, memudahkan calon pembeli atau penyewa menemukan rumah impian mereka.",
+      "link":"https://anugerahputraproperti.com/",
+      "items": [
+        {
+          "src": "img/pro1.jpeg"
+        },
+        {
+          "src": "img/pro2.jpeg"
+        },
+        {
+          "src": "img/pro3.jpeg"
+        },
+        {
+          "src": "img/pro4.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "category" :"wordpress",
+      "title": "Website Sales Car Dealer",
+      "client": "Sales Mobil Hyundai Bandung",
+      "build" : "Wordpress",
+      "desc": "Pembuatan website modern dan responsif untuk Sales Hyundai, dealer mobil Hyundai resmi. Situs ini bertujuan untuk meningkatkan penjualan mobil Hyundai dengan menyajikan informasi lengkap tentang model mobil, promosi, dan layanan purna jual.",
+      "link":"https://hyundaiaristapasteur.com/",
+      "items": [
+        {
+          "src": "img/car1.png"
+        },
+        {
+          "src": "img/car2.png"
+        },
+        {
+          "src": "img/car3.png"
+        },
+        {
+          "src": "img/car4.png"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "category" :"wordpress",
+      "title": "Website Trip Liburan di Pulau Komodo",
+      "client": "Trip Kadal Besar",
+      "build" : "Wordpress",
+      "desc": "Desain dan pengembangan website yang menarik dan informatif untuk Trip Kadal Besar, agen perjalanan wisata petualangan. Situs ini dirancang untuk menginspirasi calon wisatawan dengan destinasi eksotis, paket wisata menarik, dan cerita perjalanan yang seru.",
+      "link":"https://tripkadalbesar.com/",
+      "items": [
+        {
+          "src": "img/vac1.jpeg"
+        },
+        {
+          "src": "img/vac2.jpeg"
+        },
+        {
+          "src": "img/vac3.jpeg"
+        },
+        {
+          "src": "img/vac4.jpeg"
+        },
+        {
+          "src": "img/vac5.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "category" :"wordpress",
+      "title": "Website Marketplace Karpet Masjid",
+      "client": "Nuansa Karpet Islami",
+      "build" : "Wordpress, Woocommerce",
+      "desc": "Pembuatan platform e-commerce lengkap menggunakan WordPress WooCommerce untuk Nuansa Karpet Mandiri, toko karpet online. Situs ini memungkinkan pelanggan untuk menjelajahi berbagai pilihan karpet, melakukan pembelian melalui whatsapp dengan tampilan yang responsive dan menarik",
+      "link":"https://karpetmasjidsurabaya.com/",
+      "items": [
+        {
+          "src": "img/mar1.jpeg"
+        },
+        {
+          "src": "img/mar2.jpeg"
+        },
+        {
+          "src": "img/mar3.jpeg"
+        },
+        {
+          "src": "img/mar4.jpeg"
+        },
+        {
+          "src": "img/mar5.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "category" :"ownproject",
+      "title": "Website Sistem Pengisian KRS Online",
+      "client": "-",
+      "build" : "Laravel, Php, Tailwind",
+      "desc": "Disini saya ",
+      "link":"https://github.com/SatrioBagasPangestu/project-krs-online",
+      "items": [
+        {
+          "src": "img/mar1.jpeg"
+        },
+        {
+          "src": "img/mar2.jpeg"
+        },
+        {
+          "src": "img/mar3.jpeg"
+        },
+        {
+          "src": "img/mar4.jpeg"
+        },
+        {
+          "src": "img/mar5.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "category" :"ownproject",
+      "title": "Website Mental Health",
+      "client": "-",
+      "build" : "Php (MVC), Manual CSS",
+      "desc": "Disini saya ",
+      "link":"https://github.com/SatrioBagasPangestu/mental-health",
+      "items": [
+        {
+          "src": "img/mar1.jpeg"
+        },
+        {
+          "src": "img/mar2.jpeg"
+        },
+        {
+          "src": "img/mar3.jpeg"
+        },
+        {
+          "src": "img/mar4.jpeg"
+        },
+        {
+          "src": "img/mar5.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "category" :"ownproject",
+      "title": "Website Sistem Kasir",
+      "client": "-",
+      "build" : "Php (MVC), Tailwind",
+      "desc": "Disini saya ",
+      "link":"https://github.com/SatrioBagasPangestu/kasir",
+      "items": [
+        {
+          "src": "img/mar1.jpeg"
+        },
+        {
+          "src": "img/mar2.jpeg"
+        },
+        {
+          "src": "img/mar3.jpeg"
+        },
+        {
+          "src": "img/mar4.jpeg"
+        },
+        {
+          "src": "img/mar5.jpeg"
+        }
+      ]
+    },
+
+    {
+      "id": 8,
+      "category" :"wordpress",
+      "title": "Project Abdimas bersama Dosen ITATS",
+      "client": "CV Restu Ibu Furniture Gresik",
+      "build" : "Wordpress",
+      "desc": "Project bersama dosen saya lakukan pada tahun 2022 kegiatan ini dilakukan dalam rangka membantu UMKM untuk bisa lebih memperluas jangkauan pasar mereka, sehingga saya disini memiliki peran untuk membuat website CV Restui Ibu. Dalam pembuatan website, saya menggunkana wordpress woocommerce dan setiap katalog produknya memeiliki fitur cht via whatsapp untuk menanyakan produknya, setelah website selesai yang kemudian saya mempresentasikan kegunaan website tersebut dengan client dan baru melakukan pembaruan di website sesuai dengan request serta kebutuham client",
+      "link":"https://restuibufurnitur.id/",
+      "items": [
+        {
+          "src": "img/abd1.jpeg"
+        },
+        {
+          "src": "img/abd3.jpeg"
+        },
+        {
+          "src": "img/abd4.jpeg"
+        },
+        {
+          "src": "img/abd5.jpeg"
+        },
+        {
+          "src": "img/abd11.jpeg"
+        },
+        {
+          "src": "img/abd6.jpeg"
+        },
+        {
+          "src": "img/abd7.jpeg"
+        },
+        {
+          "src": "img/abd8.jpeg"
+        },
+        {
+          "src": "img/abd9.jpeg"
+        },
+        {
+          "src": "img/abd10.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "category" :"dosen",
+      "title": "Trainer Workshop Pembuatan Website di SMK Rajasa",
+      "client": "SMK Rajasa",
+      "build" : "-",
+      "desc": "Kegiatan tersebut berlangsung pada tahun 2023 Dalam kegiatan ini saya diberi amanah dosen untuk bisa menjadi trainer cara pembuatan website kepada siswa siswi SMK Raja Kelas 10. Persiapan yang saya lakukan untuk kegiatan ini antara lain: memaami materi langkah pembuatan website, mempersiapkan diri untuk praktek langsung pembuatan website agar siswa siswi bisa memahami lebih dalam",
+      "link":"-",
+      "items": [
+        {
+          "src": "img/web1.jpeg"
+        },
+        {
+          "src": "img/web2.jpeg"
+        },
+        {
+          "src": "img/web3.jpeg"
+        },
+        {
+          "src": "img/web4.jpeg"
+        },
+        {
+          "src": "img/web5.jpeg"
+        },
+        {
+          "src": "img/web6.jpeg"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "category" :"dosen",
+      "title": "Seminar Digital Marketing",
+      "client": "SMA Muhammadiyah 10",
+      "build" : "-",
+      "desc": "KKN saya berlangsung di SMA Muhammadiah 10, saya memiliki tanggung jawab sebagai Koor Pemateri dan juga saya memiliki anggota berjumlah 2 orang. Tahapan persiapan materi saya lakukan dengan menentuka tema beserta penjelasan output kegiatan KKN barulah saya melakukan pembagian tugas secara merata antara saya dan kepada anggota divisi pemateri. Tugas divisi pemateri yaitu menyusun materi yang akan diberikan kepada siswa siswi kemudian baru membuat PPT dan saya mempresentasikan serta mengarahkan pembuatan design iklan mereka",
+      "link":"-",
+      "items": [
+        {
+          "src": "img/kkn1.png"
+        },
+        {
+          "src": "img/kkn2.png"
+        },
+        {
+          "src": "img/kkn3.png"
+        },
+        {
+          "src": "img/kkn4.png"
+        },
+        {
+          "src": "img/kkn5.png"
+        }
+      ]
+    }
+  ]
+}

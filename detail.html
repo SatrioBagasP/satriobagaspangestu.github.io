@@ -186,7 +186,7 @@
 
             const carouselItems = project.items.map((item, index) => `
                 <div class="hidden duration-700 ease-in-out" data-carousel-item>
-                    <img src="${item.src}" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 cursor-pointer" alt="..." onclick="openModal(this)">
+                    <img src="${item.src}" loading="lazy" class="absolute block w-full -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2 cursor-pointer" alt="..." onclick="openModal(this)">
                 </div>
             `).join('');
             const carouselIndicators = project.items.map((item, index) => `
